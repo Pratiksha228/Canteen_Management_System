@@ -13,6 +13,7 @@ A pure custom PHP Project. Build for reference!
 4) PHP- All the business logic and frontend logic has been developed and implemented by PHP.
 5) MySQL- MySQL database has been used as database for the project.
 6) Apache2- Project will run at the Apache server.
+
 We have run this project on XAMPP environment.
 
 
