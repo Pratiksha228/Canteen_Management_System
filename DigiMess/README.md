@@ -5,7 +5,7 @@ A Simple Demo Canteen/Mess Management System Project in PHP
 
 A pure custom PHP Project. Build for reference!
 
-**Technology Stack that I have use in this DigiMess Project
+**Technology Stack that I have use in this DigiMess Project**
 
 1) HTML- Page layout has been designed in HTML
 2) CSS- CSS has been used for all the designing part of the website
